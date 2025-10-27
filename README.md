@@ -1,16 +1,15 @@
-## Hi there 👋
+[TOC]
 
-<!--
-**anaritasilva92/anaritasilva92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#Introdução 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt ex a tortor dictum aliquet. Fusce mauris erat, viverra ac nunc sit amet, egestas placerat turpis. Etiam dignissim facilisis ante, sed malesuada justo accumsan a. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed blandit elementum urna, ut eleifend est finibus quis. Sed efficitur metus non ullamcorper scelerisque. Proin faucibus lorem ante, non accumsan erat sodales consequat. Aliquam fringilla feugiat odio, id ultrices tellus. Etiam mattis purus et leo hendrerit, imperdiet sollicitudin lorem egestas. Integer vulputate a sapien et blandit. Ut interdum fringilla arcu vel consequat. Nam auctor fermentum sapien at convallis. Mauris id mollis lectus.
 
-Here are some ideas to get you started:
+#Objectivos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#arquitectura 
+
+#Linguagem
+Python 
+
+## Base de dados 
+SQL Server
